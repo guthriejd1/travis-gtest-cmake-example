@@ -5,7 +5,9 @@ using namespace std;
 
 int main() {
 	cout << "do stuff" << endl;
-	cout << "my new text\n";
+	cout << "my new text that says hello\n";
+	cout << "Add some more lines\n";
+	cout << "Another line\n";
 	int x = 4;
 	cout << x << endl;
 	independentMethod(x);
